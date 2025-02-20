@@ -1,0 +1,16 @@
+P1;Parcial 1;30;12345;Luis Eduardo
+P2;parcial 2;20;12345;Luis Eduardo
+P3;Parcial 3;20;12345;Luis Eduardo
+P4;Parcial 4;30;12345;Luis Eduardo
+P1;Parcial 1;20;19584;Ricardo Moreno
+P2;Parcial 2;10;19584;Ricardo Moreno
+Pr;Proyecto final;40;19584;Ricardo Moreno
+P3;Parcial 3;30;19584;Ricardo Moreno
+P1;Parcial 1;25;18746;Omar Trejos
+P2;Parcial 2;25;18746;Omar Trejos
+Pr;Proyecto;30;18746;Omar Trejos
+P3;Parcial 3;20;18746;Omar Trejos
+P1;Parcial 1;25;16954;Lady Diaz
+P2;Parcial 2;20;16954;Lady Diaz
+P3;Parcial 3;25;16954;Lady Diaz
+P4;Parcial 4;30;16954;Lady Diaz

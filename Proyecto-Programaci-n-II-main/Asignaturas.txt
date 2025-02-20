@@ -1,0 +1,13 @@
+BA100; Humanidades;1
+CB1B3; Matematicas Fundamentales;3
+IS142; Desarrollo del pensamiento logico;2
+IS105; Programacion I;5
+IS193; Introduccion a la Informatica;3
+BU101; Deportes I;1
+CB242; Laboratorio De Fisica I;2
+CB234; Fisica I;4
+CB2A3; Calculo Diferencial;3
+CB223; Algebra Lineal;3
+IS284; Programacion II;4
+BU201; Deportes II;1
+IS200;Cafe y Barismo;2

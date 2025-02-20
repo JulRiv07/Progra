@@ -1,0 +1,2 @@
+12345;Luis Eduardo;IS284; Programacion II
+12345;Luis Eduardo;IS105; Programacion I

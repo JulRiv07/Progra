@@ -1,0 +1,23 @@
+19373;Jean Carlo Valencia;2;3.00
+16554;Juan Albaran Gutierrez;2
+12545;Miguel Amaya Alvarez;2
+14354;Martin Barrero;2
+12565;Nicolas Botero;2
+10255;Juan Bustos;2
+13545;Juan Castano;2
+10055;Nicolas Jimenez;2
+16574;Maria Herrea;2
+13167;Santiago Mejia;2
+10465;Sebastian Osorio Londono;2
+13015;Kelly Marulanda;2
+10465;Sergio Parada;2
+13467;Santiago Ramirez;2
+10460;Sebastian Rivera;2
+10302;David Pera;2
+16450;Georlan Ramirez Arias;2
+19023;Julian Rivera Sanchez;2
+10900;Bryan Rodas;2
+10394;Juan Rojas;2
+16002;Juan Santofinio;2
+10036;Julian Villada;2
+10404;Juan Zapata;2

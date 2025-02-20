@@ -1,0 +1,11 @@
+12345;Luis Eduardo;Programacion I
+12345;Luis Eduardo;Programacion II
+19584;Ricardo Moreno;Programacion I
+19584;Ricardo Moreno;Programacio II
+18746;Omar Trejos;Programacion I
+18746;Omar Trejos;Programacion II
+12734;Alvaro Morales;Programacion I
+16954;Lady Diaz;Matematicas Fundamentales
+16954;Lady Diaz;Calculo Diferencial
+9999;Miguel;Programacion I
+99999;Miguel;Programacion I
